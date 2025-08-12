@@ -14,6 +14,7 @@ Soy profesional en automatización de procesos, especializado en RPA. Diseño, p
 - Font Awesome
 - Particles.js
 - GitHub Pages
+<img width="1433" height="816" alt="image" src="https://github.com/user-attachments/assets/4353e723-2e92-4d14-988c-2b6640a59cfe" />
 
 ## 📁 Estructura del proyecto
 <img width="412" height="242" alt="image" src="https://github.com/user-attachments/assets/0e92b220-3a86-4e6d-b2a5-fd616a0d1e6d" />

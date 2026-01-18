@@ -110,6 +110,28 @@ header {
   color: #ff4081;
 }
 
+/* Contador de visitas */
+.visit-counter {
+  margin-top: 0.5rem;
+  padding: 0.3rem 0.6rem;
+  background-color: #00bcd4;
+  border-radius: 15px;
+  display: inline-block;
+  color: #121212;
+  font-weight: bold;
+}
+
+.visit-counter p {
+  margin: 0;
+  font-size: 0.75rem;
+}
+
+.visit-counter span {
+  color: #ff4081;
+  font-size: 0.85rem;
+  font-weight: bold;
+}
+
 /* Secciones generales */
 section {
   width: 100%;
